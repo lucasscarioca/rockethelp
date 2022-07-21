@@ -28,7 +28,7 @@ export function SignIn() {
         setIsLoading(false);
 
         if (error.code === 'auth/invalid-email') {
-          return Alert.alert('Entrar', 'E-mail inválida.');
+          return Alert.alert('Entrar', 'E-mail inválido.');
         }
 
         if (error.code === 'auth/wrong-password') {
