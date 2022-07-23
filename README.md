@@ -4,4 +4,4 @@ React Native application for keeping your tickets organized, where you can open 
 Ignite Lab - Rocketseat
 
 # Technologies
-React Native | Typescript | NativeBase | Firestore | Firebase Auth | Expo
+React Native | Typescript | NativeBase | Expo Bare Workflow | Firestore | Firebase Auth | Expo
